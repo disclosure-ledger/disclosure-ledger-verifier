@@ -3,7 +3,7 @@
 A reference implementation for independently verifying the integrity of a
 **disclosure ledger** — a structured, cryptographically sealed record of verified
 facts about an organisation, published in machine-readable form.
-
+<org>
 This verifier lets anyone confirm that a published ledger has not been altered
 since publication, **without needing to trust the publisher**. It runs fully
 offline against the published files.
@@ -34,8 +34,7 @@ The verifier is a single Python file with no third-party dependencies (standard
 library only). Python 3.8 or later.
 
 ```bash
-git clone https://github.com/<org>/disclosure-ledger-verifier.git
-cd disclosure-ledger-verifier
+git clone https://github.com/disclosure-ledger/disclosure-ledger-verifier.git
 ```
 
 ## Usage
