@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Annual revenue growth rate of the French EdTech sector between 2023 and 2025",
+    "value": "6",
+    "unit": "%",
+    "time_period": "2025",
+    "context": "soit une évolution annuelle de +6 % par an par rapport à 2023",
+    "source_url": "https://disclosures.edtechfrance.fr/sources/ey-edtech-france-2026.pdf",
+    "source_name": "La filière EdTech française 2026",
+    "apparat_seal": "fd406818bc061c7e55d4a3f727c646211ac9723a2d5b02fcb5e2fe9e991edda3"
+  },
+  {
+    "label": "Chiffre d'affaires de la filière EdTech française",
+    "value": "1.8",
+    "unit": "EUR Billion",
+    "time_period": "2025",
+    "context": "La filière EdTech française pèse 1,8 Md€ de chiffre d'affaires en 2025 et mobilise environ 16 000 emplois, pour 550 entreprises.",
+    "source_url": "https://disclosures.edtechfrance.fr/sources/ey-edtech-france-2026.pdf",
+    "source_name": "La filière EdTech française 2026",
+    "apparat_seal": "bf8377ae183a11e4d14a4b3620f082cdd400a6c6fb82454d7f7ff142e896bfc4"
+  },
+  {
+    "label": "Part des EdTech de l'enseignement supérieur proposant un service d'animation des cours",
+    "value": "31",
+    "unit": "%",
+    "time_period": "2026",
+    "context": "Animation des cours 31 %",
+    "source_url": "https://disclosures.edtechfrance.fr/sources/ey-edtech-france-2026.pdf",
+    "source_name": "La filière EdTech française 2026",
+    "apparat_seal": "eb6288fc7df5a943aeea7db264863ab506d141dd1a83a3d60fe341ff21dd47c0"
+  },
+  {
+    "label": "Montant de la levée de fonds de Wooclap",
+    "value": "25",
+    "unit": "m€",
+    "time_period": "2025-09",
+    "context": "Wooclap3 Enseignement supérieur 09/2025 Impact Expansion 25 m€",
+    "source_url": "https://disclosures.edtechfrance.fr/sources/ey-edtech-france-2026.pdf",
+    "source_name": "La filière EdTech française 2026",
+    "apparat_seal": "415b77c7eead2ce13e67b418691f65a49cd2028eb2ca3101bd1d90c6d3a26f8e"
+  }
+]
