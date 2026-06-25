@@ -1,0 +1,13 @@
+{
+  "company_id": "edtechfrance-fr",
+  "release_id": "test",
+  "row_count": 4,
+  "release_commitment": "49aff71eb02651767c6cf1ce0ddf9768ba6a164257753df5fa5c2570c448cb43",
+  "previous_release_commitment": null,
+  "anchor_status": "anchored",
+  "anchor": {
+    "method": "sigstore-rekor",
+    "rekor_log_index": 123456,
+    "rekor_entry_url": "https://rekor.sigstore.dev/api/v1/log/entries/abc"
+  }
+}
